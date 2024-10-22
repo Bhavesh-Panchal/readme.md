@@ -1,5 +1,3 @@
-# readme.md
-
 # 💫 About Me:
 i'm currently working in infopercept as devops engineer
 
